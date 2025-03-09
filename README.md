@@ -4,4 +4,4 @@ To execute java packages program write code like this only
   java P/X
 ```
 
-for oackages program see packages folder and follow same pattern.
+for packages program see packages folder and follow same pattern.
