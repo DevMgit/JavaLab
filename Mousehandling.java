@@ -24,16 +24,9 @@ public class Mousehandling extends Applet implements MouseListener, MouseMotionL
     }
 
     public void mouseEntered(MouseEvent me) {
-        mousex = 0;
+        mousex = 10;
         mousey = 10;
         msg = "mouse entered";
-        repaint();
-    }
-
-    public void mouseExited(MouseEvent me) {
-        mousex = 0;
-        mousey = 10;
-        msg = "mouse exited";
         repaint();
     }
 
